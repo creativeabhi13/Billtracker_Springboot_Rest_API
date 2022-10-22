@@ -7,7 +7,11 @@ operations.
 • Understanding of authentication.
 • Knowledge of REST style.
 • Understanding of serialisation.
-• Knowledge of database concepts.
+• Kno![Screenshot (8)](https://user-images.githubusercontent.com/76790667/197366259-ae2cf5c0-4ac8-440b-b888-35530cf5d022.png)
+wledge of database concepts.
+
+![Screenshot (9)](https://user-images.githubusercontent.com/76790667/197366262-120ae38b-03e9-4d45-8285-c450c6219ee2.png)
+
 ![Screenshot (14)](https://user-images.githubusercontent.com/76790667/197366077-24f74376-ca7c-48d8-ae32-8d099b81c743.png)
 ![Screenshot (13)](https://user-images.githubusercontent.com/76790667/197366078-17e5ad92-ddbf-42a3-9808-a30bb2e7ec12.png)
 ![Screenshot (12)](https://user-images.githubusercontent.com/76790667/197366080-f10059ac-b702-4f1b-96a3-8de5310443a7.png)
